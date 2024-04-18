@@ -1,0 +1,24 @@
+body{
+    background-color: green;
+    text-align: center;
+    
+}
+
+#Comenzar{
+    color:#016f32;
+    width:150px;
+    background-color: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border-radius: 2px;
+}
+#Carta{
+    color:#016f32;
+    width:150px;
+    background-color: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border-radius: 2px;
+}
